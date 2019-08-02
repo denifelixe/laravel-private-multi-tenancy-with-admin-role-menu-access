@@ -1,0 +1,1 @@
+$('#role-menus-access-table').DataTable();

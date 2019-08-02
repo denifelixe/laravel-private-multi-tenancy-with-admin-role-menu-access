@@ -1,0 +1,37 @@
+.tenant-signin {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.subdomain {
+	padding: 0;
+}
+#subdomain {
+	text-align: right;
+}
+
+.rootdomain {
+	padding-left: 5px;
+}
+#rootdomain-div {
+	display: table;
+	height: 100%;
+}
+#rootdomain-bottom {
+	display: table-cell;
+	vertical-align: bottom;
+}
+#rootdomain {
+	margin: 0;
+}
+
+#button-form-group-div {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#button-div {
+	padding: 0;
+}
+#submit-button {
+	width: 100%;
+}
