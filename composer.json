@@ -1,7 +1,7 @@
 {
-    "name": "denifelixe/laravel-private-multi-tenancy",
+    "name": "denifelixe/laravel-private-multi-tenancy-with-admin-role-menu-access",
     "type": "project",
-    "description": "The Laravel Private Multi-Tenancy Framework.",
+    "description": "The Laravel Private Multi-Tenancy with Admin Role Menu Access Framework.",
     "keywords": [
         "framework",
         "laravel",
